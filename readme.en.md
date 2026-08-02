@@ -10,12 +10,8 @@
 <img src="https://img.shields.io/github/stars/LockGit/gochat">
 <img src="https://img.shields.io/docker/pulls/lockgit/gochat">
 <img src="https://img.shields.io/github/repo-size/LockGit/gochat">
-<img src="https://img.shields.io/github/followers/LockGit">
 
-### [中文版本(Chinese version)](readme.md)
-
-### Subscribe
-![](./architecture/wx.jpg)
+### [中文版本(Chinese version)](readme.md
 
 ### gochat is a lightweight im server implemented using pure go
 * gochat is an instant messaging system based on go. It supports private message messages and room broadcast messages. It communicates with each other through RPC and supports horizontal expansion.

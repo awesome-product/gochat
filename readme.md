@@ -9,12 +9,9 @@
 <img src="https://img.shields.io/github/forks/LockGit/gochat">
 <img src="https://img.shields.io/github/stars/LockGit/gochat">
 <img src="https://img.shields.io/github/repo-size/LockGit/gochat">
-<img src="https://img.shields.io/github/followers/LockGit">
 
 ### [English version(英文版本)](readme.en.md)
 
-### Subscriber
-![](./architecture/wx.jpg)
 
 ### gochat是一个使用纯go实现的轻量级im系统
 * gochat为纯go实现的即时通讯系统,支持私信消息与房间广播消息,各层之间通过rpc通讯,支持水平扩展。
